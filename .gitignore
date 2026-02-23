@@ -1,0 +1,14 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+
+# Data & Charts
+metrics.csv
+metrics_chart.png
+
+# Virtual Environment
+.venv/
+venv/
+env/
+.env/
